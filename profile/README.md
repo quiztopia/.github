@@ -5,10 +5,10 @@ You can put quizzes and questions on the site!
 Or you can share it with others also!
 
 ### Goal
-[ ] Finish designing the UI
-[ ] Finish making all the Goals
-[ ] Buy Domain
-[ ] Buy Server
+- [ ] Finish designing the UI
+- [ ] Finish making all the Goals
+- [ ] Buy Domain
+- [ ] Buy Server
 
 <!--
 
