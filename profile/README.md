@@ -16,3 +16,9 @@ Or you can share it with others also!
 - [[Github](https://github.com/quiztopia/)]
 - [[Donate to Us!](https://quiztopia.net/donate)]
 - [[Discord](https://discord.gg/ReKAU9xw7g)]
+
+### 🖥 Language
+- Javascript
+- HTML
+- CSS
+- Node.js
