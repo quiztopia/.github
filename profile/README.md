@@ -9,3 +9,7 @@ Or you can share it with others also!
 - [ ] Finish making all the Goals
 - [ ] Buy Domain
 - [ ] Buy Server
+
+### 🔗 Links
+[Users/Teachers](https://quiztopia.net/)
+[Player/Students](https://quiztopia.live)
