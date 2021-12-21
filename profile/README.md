@@ -1,7 +1,7 @@
 ## 🎉 Welcome
 ### ❓ What We Make?
-We make a multi game websites that students and parents or even teachers can play with.
-You can put quizzes and questions on the site!
+We make a multi game websites that students and parents or even teachers can play with. <br>
+You can put quizzes and questions on the site!<br>
 Or you can share it with others also!
 
 ### 🎈 Goal
