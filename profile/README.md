@@ -7,7 +7,7 @@ Or you can share it with others also!
 ### 🎈 Goal
 - [ ] Finish designing the UI
 - [ ] Finish making all the Goals
-- [ ] Buy Domain
+- [ ] Buy Domain (From Godaddy)
 - [ ] Buy Server
 
 ### 🔗 Links
