@@ -11,5 +11,5 @@ Or you can share it with others also!
 - [ ] Buy Server
 
 ### 🔗 Links
-[Users/Teachers](https://quiztopia.net/)
-[Player/Students](https://quiztopia.live)
+- [[Users/Teachers](https://quiztopia.net/)]
+- [[Player/Students](https://quiztopia.live)]
