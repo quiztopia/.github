@@ -5,9 +5,9 @@ You can put quizzes and questions on the site!<br>
 Or you can share it with others also!
 
 ### 🎈 Goal (Not Yet Finish Listing All the Goals)
-- [x] Finish listing all the UI need to make
-- [ ] Design all the UI
-- [ ] Finish designing the UI
+- [x] Finish listing all the User-Interface need to make
+- [ ] Design all the User-Interface
+- [ ] Finish designing the User-Interface
 - [ ] Buy Domain (From Godaddy)
 - [ ] Buy Server
 
