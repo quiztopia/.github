@@ -6,6 +6,7 @@ Or you can share it with others also!
 
 ### 🎈 Goal (Not Yet Finish Listing All the Goals)
 - [x] Finish listing all the UI need to make
+- [ ] Design all the UI
 - [ ] Finish designing the UI
 - [ ] Buy Domain (From Godaddy)
 - [ ] Buy Server
