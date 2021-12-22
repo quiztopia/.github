@@ -4,10 +4,9 @@ We make a multi game websites that students and parents or even teachers can pla
 You can put quizzes and questions on the site!<br>
 Or you can share it with others also!
 
-### 🎈 Goal
+### 🎈 Goal (Not Yet Finish Listing All the Goals)
 - [x] Finish listing all the UI need to make
 - [ ] Finish designing the UI
-- [ ] Finish making all the Goals
 - [ ] Buy Domain (From Godaddy)
 - [ ] Buy Server
 
@@ -17,6 +16,7 @@ Or you can share it with others also!
 - [[Github](https://github.com/quiztopia/)]
 - [[Donate to Us!](https://quiztopia.net/donate)]
 - [[Discord](https://discord.gg/ReKAU9xw7g)]
+- [[Reddit](https://www.reddit.com/r/QuizTopia/)]
 
 ### 🖥 Language
 - Javascript
